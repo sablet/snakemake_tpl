@@ -1,0 +1,6 @@
+input: "inputs/train.csv"
+output: "data/preprocessed_c.csv"
+model_output: "data/model_c.pkl"
+suffix: "hoge"
+param: "normalize"
+learning_rate: 0.03
